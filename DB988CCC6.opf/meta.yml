@@ -1,0 +1,22 @@
+id: DB988CCC6
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-06T09:34:47+00:00'
+last_modified: '2022-05-26T14:21:31.307480+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d478:
+      image_group_id: I1PD95885
+      title: འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་བསྒོམ་པའི་ཆོ་ག་རྒྱས་པ།
+      total_pages: 1648
+      order: 40
+      base_file: d478.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
